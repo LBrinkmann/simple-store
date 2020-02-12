@@ -1,9 +1,6 @@
 from setuptools import setup, find_packages
-import sys
-import os.path
 
 PACKAGE_NAME = 'sstore'
-
 
 setup(name=PACKAGE_NAME,
       version="0.0.1",
